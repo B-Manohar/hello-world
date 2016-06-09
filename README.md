@@ -1,2 +1,2 @@
 # hello-world
-A sample repository.
+A sample repository. Created to learn Github.
